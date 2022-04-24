@@ -1,3 +1,7 @@
 .outerContent{
     background-color: lightgray;
 }
+.mx-5p{
+    margin-left: 5%;
+    margin-right: 5%;
+}
